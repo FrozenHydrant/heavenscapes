@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:random_selector",
+  "config": {
+    "default": "heavenscapes:surface_calcite_to_diorite",
+    "features": [
+      {
+        "chance": 0.3,
+        "feature": "heavenscapes:surface_calcite_to_tuff"
+      }
+    ]
+  }
+}

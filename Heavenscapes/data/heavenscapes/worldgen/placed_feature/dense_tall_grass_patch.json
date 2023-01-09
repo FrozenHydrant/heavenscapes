@@ -1,0 +1,12 @@
+{
+  "feature": "heavenscapes:dense_tall_grass_patch",
+  "placement": [
+    {
+      "type": "minecraft:count_on_every_layer",
+      "count": 6
+    },
+    {
+      "type": "minecraft:biome"
+    }
+  ]
+}
