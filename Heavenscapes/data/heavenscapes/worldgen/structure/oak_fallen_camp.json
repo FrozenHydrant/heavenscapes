@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:jigsaw",
+  "biomes": [
+	"heavenscapes:cherry_blossom_forest"
+  ],
+  "max_distance_from_center": 32,
+  "size": 1,
+  "start_height": {
+    "absolute": 0
+  },
+  "project_start_to_heightmap": "MOTION_BLOCKING_NO_LEAVES",
+  "spawn_overrides": {},
+  "step": "surface_structures",
+	"start_pool": "heavenscapes:oak_fallen_camp",
+	"use_expansion_hack": false
+}

@@ -1,6 +1,7 @@
 {
   "replace": false,
   "values": [
-    "heavenscapes:heavenly"
+    "heavenscapes:heavenly",
+	"heavenscapes:unused"
   ]
 }

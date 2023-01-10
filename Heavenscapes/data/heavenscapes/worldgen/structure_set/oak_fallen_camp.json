@@ -1,0 +1,14 @@
+{
+  "placement": {
+    "type": "minecraft:random_spread",
+    "salt": 3893559,
+    "separation": 1,
+    "spacing": 8
+  },
+  "structures": [
+    {
+      "structure": "heavenscapes:oak_fallen_camp",
+      "weight": 1
+    }
+  ]
+}
