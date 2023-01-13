@@ -30,9 +30,10 @@
          
       ],
       [
-         "minecraft:lake_lava_underground",
-         "minecraft:lake_lava_surface",
-         "heavenscapes:heavenly_falls_pools"
+		"heavenscapes:heavenly_falls_pools",
+        "minecraft:lake_lava_underground",
+        "minecraft:lake_lava_surface"
+         
       ],
       [
          "minecraft:amethyst_geode"
@@ -86,10 +87,10 @@
          "minecraft:spring_lava"
       ],
       [
-         "minecraft:glow_lichen",
-         "heavenscapes:surface_calcite_conversion",
-         "minecraft:trees_birch_and_oak",
-         "heavenscapes:normal_grass_patch"
+		"heavenscapes:surface_calcite_conversion",
+		"heavenscapes:normal_grass_patch",
+        "minecraft:glow_lichen",
+        "minecraft:trees_birch_and_oak",
       ],
       [
          "minecraft:freeze_top_layer"

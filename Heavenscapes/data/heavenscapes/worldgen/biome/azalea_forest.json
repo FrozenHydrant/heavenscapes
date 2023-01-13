@@ -77,6 +77,7 @@
       "minecraft:spring_lava"
     ],
     [
+		"heavenscapes:azalea_jungle_trees",
       "minecraft:glow_lichen",
       "minecraft:bamboo_light",
       "heavenscapes:dense_grass_patch",
@@ -89,8 +90,8 @@
       "minecraft:patch_sugar_cane",
       "minecraft:patch_pumpkin",
       "minecraft:vines",
-      "minecraft:patch_melon",
-	  "heavenscapes:azalea_jungle_trees"
+      "minecraft:patch_melon"
+	  
     ],
     [
       "minecraft:freeze_top_layer"

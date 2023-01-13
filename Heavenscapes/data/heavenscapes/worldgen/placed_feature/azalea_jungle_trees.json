@@ -1,5 +1,5 @@
 {
-  "feature": "minecraft:rooted_azalea_tree",
+  "feature": "minecraft:azalea_tree",
   "placement": [
     {
       "type": "minecraft:count",
@@ -16,22 +16,10 @@
     },
     {
       "type": "minecraft:heightmap",
-      "heightmap": "MOTION_BLOCKING"
+      "heightmap": "MOTION_BLOCKING_NO_LEAVES"
     },
     {
       "type": "minecraft:biome"
-    },
-	{
-      "type": "minecraft:block_predicate_filter",
-      "predicate": {
-        "type": "minecraft:would_survive",
-        "state": {
-          "Name": "minecraft:oak_sapling",
-          "Properties": {
-            "stage": "0"
-          }
-        }
-      }
     }
   ]
 }

@@ -29,13 +29,14 @@
   "features": [
     [],
     [
+	"heavenscapes:normal_moss_lakes",
       "minecraft:lake_lava_underground",
-      "minecraft:lake_lava_surface",
-	"heavenscapes:normal_moss_lakes"
+      "minecraft:lake_lava_surface"
+	
     ],
     [
       "minecraft:amethyst_geode",
-	"heavenscapes:cherry_blossom_stone"
+		"heavenscapes:cherry_blossom_stone"
     ],
     [
       "minecraft:monster_room",
@@ -79,20 +80,20 @@
       "minecraft:spring_lava"
     ],
     [
-      "minecraft:glow_lichen",
-      "minecraft:forest_flowers",
-	"heavenscapes:cherry_blossom_trees",
-	"heavenscapes:normal_moss_patch",
-	"heavenscapes:normal_grass_patch",
-	"heavenscapes:normal_fern_patch",
-      "minecraft:flower_default",
-      "minecraft:patch_grass_forest",
-	 "minecraft:patch_large_fern",
-      "minecraft:brown_mushroom_normal",
-      "minecraft:red_mushroom_normal",
-      "minecraft:patch_sugar_cane",
-      "minecraft:patch_pumpkin",
-	"minecraft:patch_waterlily"
+		"heavenscapes:cherry_blossom_trees",
+		"heavenscapes:normal_moss_patch",
+		"heavenscapes:normal_grass_patch",
+		"heavenscapes:normal_fern_patch",
+		"minecraft:glow_lichen",
+		"minecraft:forest_flowers",
+		"minecraft:flower_default",
+		"minecraft:patch_grass_forest",
+		"minecraft:patch_large_fern",
+		"minecraft:brown_mushroom_normal",
+		"minecraft:red_mushroom_normal",
+		"minecraft:patch_sugar_cane",
+		"minecraft:patch_pumpkin",
+		"minecraft:patch_waterlily"
     ],
     [
       "minecraft:freeze_top_layer"
@@ -204,5 +205,5 @@
     "water_ambient": [],
     "water_creature": []
   },
-  "temperature": 0.7
+  "temperature": 0.8
 }
